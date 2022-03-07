@@ -1,12 +1,4 @@
 {
     "Parameters": {
-        "FunctionName": "HelloWorldNode",
-        "S3Bucket": "804473135082-lambda-src",
-        "S3Key": "HelloWorldNode.zip",
-        "SubnetId1": "subnet-0e23bd1e3eaee50b7",
-        "SubnetId2": "subnet-06ac511687946d0ca",
-        "SecurityGroupId": "sg-0ebb22f443a4566e1",
-        "KmsKeyArn": "",
-        "Owner": "tg"
     }
 }

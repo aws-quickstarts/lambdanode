@@ -1,4 +1,4 @@
 # Lambda Node
 
-Esse arquivo cria:
-- Uma função Lambda utilizando Node
+This project creates:
+- Lambda Function using NodeJS;
