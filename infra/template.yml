@@ -52,7 +52,9 @@ Resources:
           Statement:
           - Effect: Allow
             Action:
-              - logs:*
+              - logs:CreateLogStream
+              - logs:CreateLogGroup
+              - logs:PutLogEvents
               - ec2:DescribeNetworkInterfaces
               - ec2:CreateNetworkInterface
               - ec2:DeleteNetworkInterface
