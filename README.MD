@@ -1,4 +1,4 @@
-# Lambda Node
+# lambdanode
 
 This project creates:
-- Lambda Function using NodeJS;
+- Lambda function using NodeJs as the runtime;
