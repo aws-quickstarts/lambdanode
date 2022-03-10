@@ -57,6 +57,9 @@ Resources:
       Code:
         S3Bucket: !Ref BucketLambdaSourceCode
         S3Key: !Ref BucketKeyLambdaSourceCode
+      Environment:
+        Variables:
+          message: 'Hello World!'
       Tags:
         - Key: Owner
           Value: !Ref Owner
